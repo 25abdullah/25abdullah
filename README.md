@@ -5,7 +5,7 @@ I'm a Computer Science student with a Math minor at Northeastern University. I'm
 - Studying Computer Science (Math minor) at Northeastern University
 - Interests: Data Science, Machine Learning, Data Visualization, Algorithm Design, CAD Design
 - Currently learning: applied ML with scikit-learn (logistic regression, model evaluation)
-- Reach me: [LinkedIn](https://www.linkedin.com/in/abdullah-ismail-09a964368/)
+- Reach me: [LinkedIn](https://www.linkedin.com/in/abdullah-ismail-09a964368/) and ismail.abd@northeastern.edu
 
 ---
 
