@@ -1,6 +1,6 @@
 # Hi, I'm Abdullah Ismail
 
-I'm a Computer Science student with a Math minor at Northeastern University. I'm interested in data science, machine learning, and algorithm design.
+I'm a Computer Science student with a Math minor at Northeastern University. I'm interested in data science, data visualization, machine learning, and algorithm design.
 
 - Studying Computer Science (Math minor) at Northeastern University
 - Interests: Data Science, Machine Learning, Data Visualization, and Algorithm Design
