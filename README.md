@@ -34,7 +34,7 @@ I'm a Computer Science student with a Math minor at Northeastern University. I'm
 ### GitHub Highlights
 
 - Built and numerically verified a neural network from scratch, then benchmarked it against library implementations on 220K rows of real medical data
-- Mathematical modeling: hand-derived backpropagation through multiple layers, and prediction intervals built from empirical residuals rather than distributional assumptions
+- Mathematical modeling: hand-derived backpropagation through multiple layers and applying graph theory to genealogy
 - Implemented graph algorithms from first principles, including breadth-first search with path reconstruction and formal correctness proofs
 - Comfortable across the pipeline: SQL extraction from relational databases, cleaning decisions on messy data, modeling, and deployment
 - Data journalism work published across multiple articles at The Huntington News
